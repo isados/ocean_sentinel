@@ -32,8 +32,8 @@ average_rating = 7
 left_column, right_column = st.columns(2)
 
 with left_column:
-    st.subheader('Total Chlorphyll')
-    st.subheader(f'100 cm3')
+    st.subheader('Average NDVI')
+    st.subheader(f'0.2')
 
 with right_column:
     st.subheader('Aquatic Health')
